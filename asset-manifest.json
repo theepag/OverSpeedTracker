@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OverSpeedTracker/static/css/main.7f5171ac.chunk.css",
+    "main.js": "/OverSpeedTracker/static/js/main.65accd61.chunk.js",
+    "main.js.map": "/OverSpeedTracker/static/js/main.65accd61.chunk.js.map",
+    "runtime-main.js": "/OverSpeedTracker/static/js/runtime-main.9fd44d85.js",
+    "runtime-main.js.map": "/OverSpeedTracker/static/js/runtime-main.9fd44d85.js.map",
+    "static/js/2.a82adff2.chunk.js": "/OverSpeedTracker/static/js/2.a82adff2.chunk.js",
+    "static/js/2.a82adff2.chunk.js.map": "/OverSpeedTracker/static/js/2.a82adff2.chunk.js.map",
+    "static/js/3.ba108f03.chunk.js": "/OverSpeedTracker/static/js/3.ba108f03.chunk.js",
+    "static/js/3.ba108f03.chunk.js.map": "/OverSpeedTracker/static/js/3.ba108f03.chunk.js.map",
+    "index.html": "/OverSpeedTracker/index.html",
+    "static/css/main.7f5171ac.chunk.css.map": "/OverSpeedTracker/static/css/main.7f5171ac.chunk.css.map",
+    "static/js/2.a82adff2.chunk.js.LICENSE.txt": "/OverSpeedTracker/static/js/2.a82adff2.chunk.js.LICENSE.txt",
+    "static/media/logo.7ac99c25.png": "/OverSpeedTracker/static/media/logo.7ac99c25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fd44d85.js",
+    "static/js/2.a82adff2.chunk.js",
+    "static/css/main.7f5171ac.chunk.css",
+    "static/js/main.65accd61.chunk.js"
+  ]
+}
